@@ -1,0 +1,36 @@
+patient_id,age,gender,department,admission_date,discharge_date,billing_amount,readmitted_30d
+PAT-1000,48.0,F,Emergency,2026-01-15,2026-03-08,450000.0,yes
+PAT-1001,,F, cardiology ,,,12500.0,yes
+PAT-1002,62.0,Male, cardiology ,15/02/2026,2026-03-08,,yes
+PAT-1003,62.0,Male,General Medicine,15/02/2026,2026-03-08,12500.0,
+PAT-1004,25.0,Male,Emergency,,20/02/2026,24800.5,No
+PAT-1005,25.0,Female,Cardiology,invalid_date,2026-03-15,12500.0,
+PAT-1006,25.0,F, cardiology ,15/02/2026,2026-01-20,8900.0,No
+PAT-1007,75.0,F, cardiology ,invalid_date,20/02/2026,450000.0,yes
+PAT-1008,62.0,Male,Cardiology,15/02/2026,20/02/2026,24800.5,yes
+PAT-1009,62.0,Female, cardiology ,15/02/2026,2026-03-15,12500.0,
+PAT-1010,25.0,Female,General Medicine,2026-03-10,2026-01-20,,
+PAT-1011,,Male,Emergency,15/02/2026,,8900.0,No
+PAT-1012,75.0,Male,Cardiology,2026-01-15,,8900.0,NO
+PAT-1013,34.0,Male,Emergency,,20/02/2026,12500.0,No
+PAT-1014,34.0,female , cardiology ,,2026-01-20,450000.0,
+PAT-1015,34.0,Male, cardiology ,invalid_date,20/02/2026,12500.0,
+PAT-1016,34.0,Female,Cardiology,15/02/2026,2026-03-08,24800.5,Yes
+PAT-1017,48.0,M,General Medicine,2026-01-15,20/02/2026,12500.0,
+PAT-1018,48.0,Female,Orthopedics,invalid_date,20/02/2026,8900.0,Yes
+PAT-1019,34.0,,Cardiology,2026-03-10,,12500.0,NO
+PAT-1020,62.0,,Orthopedics,invalid_date,,450000.0,No
+PAT-1021,25.0,Male,Orthopedics,invalid_date,,,No
+PAT-1022,34.0,Female,General Medicine,15/02/2026,2026-03-08,-450.0,Yes
+PAT-1023,48.0,Male,Orthopedics,2026-03-10,,12500.0,No
+PAT-1024,48.0,Male,Orthopedics,invalid_date,2026-01-20,450000.0,
+PAT-1025,75.0,Male,General Medicine,2026-01-15,2026-03-15,450000.0,yes
+PAT-1026,34.0,Female,Orthopedics,2026-01-15,2026-01-20,,Yes
+PAT-1027,48.0,Female,Orthopedics,,2026-01-20,8900.0,No
+PAT-1028,62.0,Male,Orthopedics,2026-03-10,,450000.0,Yes
+PAT-1029,25.0,Male,Cardiology,2026-03-10,2026-03-15,450000.0,Yes
+PAT-1030,62.0,female ,Cardiology,,2026-03-15,450000.0,yes
+PAT-1031,25.0,Male,Cardiology,invalid_date,2026-03-15,450000.0,
+PAT-1032,25.0,Male,General Medicine,2026-03-10,2026-03-08,24800.5,Yes
+PAT-1033,,Female, cardiology ,2026-01-15,,24800.5,No
+PAT-1034,,,Orthopedics,2026-01-15,2026-03-15,8900.0,NO
